@@ -1,2 +1,3 @@
-# Build project
+# AlertApp
+### Build project
 ./gradlew build
